@@ -77,12 +77,12 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 - 🌱 I’m currently learning more about WebDevelopment.
 - 👯 I’m looking to collaborate on [www.masudprobd.com](#) 
 - 💬 Ask me about webdevelopment or any tech related stuff.
-- 📫 How to reach me: [Twitter@masudprobd](https://twitter.com/masudprobd) , [Youtube@masudprobd](https://youtube.com/masudprobd)
+- 📫 How to reach me: [Twitter@masudprobd](#) , [Youtube@masudprobd](#)
 
-[![Twitter: md_mijan_mr](https://img.shields.io/twitter/follow/masudprobd.com?style=social)](https://twitter.com/masudprobd)
-[![Linkedin: mrlaboratory](https://img.shields.io/badge/-masudprobd.com-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masudprobd/)](https://www.linkedin.com/in/masudprobd/)
+[![Twitter: md_mijan_mr](https://img.shields.io/twitter/follow/masudprobd.com?style=social)](#)
+[![Linkedin: mrlaboratory](https://img.shields.io/badge/-masudprobd.com-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masudprobd/)](#)
 [![GitHub iampawan](https://img.shields.io/github/followers/masudprobd.com?label=follow&style=social)](https://github.com/masudprobd)
-[![website](https://img.shields.io/badge/PortfolioWebsite-masudprobd.com-2648ff?style=flat-square&logo=google-chrome)](https://www.masudprobd.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-masudprobd.com-2648ff?style=flat-square&logo=google-chrome)](#)
 
 
 **Languages and Tools:**  
