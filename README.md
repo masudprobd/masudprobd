@@ -5,9 +5,8 @@ Hello! I'm Masud Rana, a passionate MERN stack developer with a strong focus on 
 
 
 Contact
-Email: [mrlaboratory23@gmail.com]
-LinkedIn: [[ LinkedIn Profile](https://www.linkedin.com/in/mijanurrahaman)]
-Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
+Email: [masudcomputer24@gmail.com]
+Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 
 
 ## Top Project 🧡💛💙💜
@@ -110,7 +109,6 @@ Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
 <div align="center">
     
  - Md Mijanur Rahaman CV [See Now](https://mrlaboratory.github.io/) 
-
 
     # My Projects
 
