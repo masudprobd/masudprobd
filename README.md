@@ -82,7 +82,7 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 [![Twitter: md_mijan_mr](https://img.shields.io/twitter/follow/md_mijan_mr?style=social)](https://twitter.com/masudprobd)
 [![Linkedin: mrlaboratory](https://img.shields.io/badge/-mrlaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masudprobd/)](https://www.linkedin.com/in/masudprobd/)
 [![GitHub iampawan](https://img.shields.io/github/followers/mrlaboratory?label=follow&style=social)](https://github.com/masudprobd)
-[![website](https://img.shields.io/badge/PortfolioWebsite-mrlaboratory.com-2648ff?style=flat-square&logo=google-chrome)](https://www.masudprobd.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-masudprobd.com-2648ff?style=flat-square&logo=google-chrome)](https://www.masudprobd.com/)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
