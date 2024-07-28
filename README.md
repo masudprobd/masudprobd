@@ -40,7 +40,7 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 <h3 align="center">I try to do what people can't do!</h3>
 
-<center> <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudprobd&label=Views&color=blue&style=plastic" alt="masudprobd" /> </p></center>center>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masudprobd&label=Views&color=blue&style=plastic" alt="masudprobd" /> </p></center>
 
 
 <a href="#">
