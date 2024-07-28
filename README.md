@@ -70,14 +70,14 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <br/>
 <br/>
 
-- 📝 I regulary write articles on [www.mrlaboratory.info](https://www.mrlaboratory.info) 
-- 📝 I regulary write articles on [www.mrlaboratory.com](https://www.mrlaboratory.com) 
-- 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/MRLaboratorypro/videos)
-- 🔭 I’m currently working on [NeotericIT](https://www.neotericit.com/).
+- 📝 I regulary write articles on [www.mrlaboratory.info](https://www.masudprobd.info) 
+- 📝 I regulary write articles on [www.mrlaboratory.com](https://www.masudprobd.com) 
+- 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/masudprobd/videos)
+- 🔭 I’m currently working on [NeotericIT](https://www.masudprobd.com/).
 - 🌱 I’m currently learning more about WebDevelopment.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mrlaboratorypro).
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/masudprobd).
 - 💬 Ask me about webdevelopment or any tech related stuff.
-- 📫 How to reach me: [Twitter@mrlaboratory2](https://twitter.com/mrlaboratory2) , [Youtube@mrlaboratorypro](https://youtube.com/mrlaboratorypro)
+- 📫 How to reach me: [Twitter@masudprobd](https://twitter.com/masudprobd) , [Youtube@masudprobd](https://youtube.com/masudprobd)
 
 [![Twitter: md_mijan_mr](https://img.shields.io/twitter/follow/md_mijan_mr?style=social)](https://twitter.com/md_mijan_mr)
 [![Linkedin: mrlaboratory](https://img.shields.io/badge/-mrlaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrlaboratory/)](https://www.linkedin.com/in/mrlaboratory/)
