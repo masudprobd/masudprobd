@@ -43,26 +43,26 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudprobd&label=Views&color=blue&style=plastic" alt="masudprobd" /> </p>
 
 
-<a href="https://www.facebook.com/mdmijanurrahaman.mr/">
+<a href="https://www.facebook.com/masudprobd/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mrlaboratorypro/">
+<a href="https://www.youtube.com/masudprobd/">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://twitter.com/mrlaboratory">
+<a href="https://twitter.com/masudprobd">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/mrlaboratory">
+<a href="https://linkedin.com/in/masudprobd">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/mrlaboratory">
+<a href="https://github.com/masudprobd">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/mdmijanurrahaman.mr/">
+<a href="https://instagram.com/masudprobd/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://t.me/mrlaboratory">
+<a href="https://t.me/masudprobd">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
@@ -92,32 +92,15 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-<a align="center" href="https://github.com/mrlaboratory">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrlaboratory&show_icons=true" alt="mrlaboratory" /> </p>
-</a>
-<a align="center" href="https://github.com/mrlaboratory">
-<p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlaboratory&theme=light&hide_langs_below=1" /> </p>
-</a>
 
 
 
-
-
-<div align="center">
-    
+<div align="center">    
  - Md Mijanur Rahaman CV [See Now](https://mrlaboratory.github.io/) 
-
     # My Projects
-
 Welcome to my collection of projects! Below you will find a list of my top projects along with links to explore them. Feel free to check them out and see what I've been working on.
 
 Feel free to explore any of these projects to learn more about them. Enjoy!
-
-
-    
-    
-
-
 
 </div>
 
