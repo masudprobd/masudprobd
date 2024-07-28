@@ -70,12 +70,12 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <br/>
 <br/>
 
-- 📝 I regulary write articles on [www.mrlaboratory.info](https://www.masudprobd.info) 
-- 📝 I regulary write articles on [www.mrlaboratory.com](https://www.masudprobd.com) 
-- 📝 I regulary Make videos on [Youtube](https://www.youtube.com/c/masudprobd/videos)
-- 🔭 I’m currently working on [NeotericIT](https://www.masudprobd.com/).
+- 📝 I regulary write articles on [www.masudprobd.com](#) 
+- 📝 I regulary write articles on [www.masudprobd.com](#) 
+- 📝 I regulary Make videos on [www.masudprobd.com](#) 
+- 🔭 I’m currently working on [www.masudprobd.com](#) 
 - 🌱 I’m currently learning more about WebDevelopment.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/masudprobd).
+- 👯 I’m looking to collaborate on [www.masudprobd.com](#) 
 - 💬 Ask me about webdevelopment or any tech related stuff.
 - 📫 How to reach me: [Twitter@masudprobd](https://twitter.com/masudprobd) , [Youtube@masudprobd](https://youtube.com/masudprobd)
 
@@ -83,6 +83,7 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 [![Linkedin: mrlaboratory](https://img.shields.io/badge/-masudprobd.com-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masudprobd/)](https://www.linkedin.com/in/masudprobd/)
 [![GitHub iampawan](https://img.shields.io/github/followers/masudprobd.com?label=follow&style=social)](https://github.com/masudprobd)
 [![website](https://img.shields.io/badge/PortfolioWebsite-masudprobd.com-2648ff?style=flat-square&logo=google-chrome)](https://www.masudprobd.com/)
+
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -97,7 +98,7 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 
 <div align="center">
     
- - Md Mijanur Rahaman CV [See Now](https://masudprobd.github.io/) 
+ - Masud Rana CV [See Now](https://masudprobd.github.io/) 
 
 
     # My Projects
