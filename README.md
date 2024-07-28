@@ -104,10 +104,7 @@ Portfolio: [[ Portfolio Website](https://mrlaboratory.github.io/)]
 </a>
 
 
-| Project Name | Project With |
-|-----------------|-----------------|
-| Dish diary  | react,tailwind,mongodb ,express |
-| Row 2, Column 1 | Row 2, Column 2 |
+
 
 
 <div align="center">
