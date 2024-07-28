@@ -16,7 +16,7 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 - **Cocoen Deag** - An interactive image comparison slider. [See Now](#)
 - **Calculator** - A simple calculator web app. [See Now](#)
 - **Embad Site** - A website for embedding external content. [See Now](#)
-- **Blogger ** - Get RSS feeds from any Blogger blog. [See Now](#)
+
 
 
 
