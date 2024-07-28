@@ -9,11 +9,8 @@ Email: [masudcomputer24@gmail.com]
 Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 
 
-## Top Project 🧡💛💙💜
+## Project 🧡💛💙💜
 
-- **Dish Diary Project** - A web application for keeping track of your favorite dishes. [Live Link](https://dish-diary.web.app/)
-
-## Other Projects
 
 - **The Best Blogger Template** - A stunning template for bloggers. [See Now](https://mrlaboratory.github.io/the-best-blogger-template/)
 - **Cocoen Deag** - An interactive image comparison slider. [See Now](https://mrlaboratory.github.io/CocoenDeag/)
