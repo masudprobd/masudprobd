@@ -14,6 +14,15 @@ Email: [masudcomputer24@gmail.com]
 Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 
 
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
+
+
+
 ## Project 🧡💛💙💜
 
 
