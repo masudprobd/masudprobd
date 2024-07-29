@@ -46,14 +46,14 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudprobd&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/masudprobd/masudprobd.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudprobd&repo=masudprobd.github.io&theme=buefy" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/masudprobd/github-readme-stats)
 </a>
 
 <br />
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/masudprobd/github-readme-stats)
+
 
 
 
