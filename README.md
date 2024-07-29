@@ -44,9 +44,8 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
 <h3 align="center">I try to do what people can't do!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masudprobd&label=Profile views
-Profile views&color=blue&style=plastic" alt="masudprobd" /> </p></center>
 
+Connect with me:
 
 <a href="#">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
