@@ -26,16 +26,6 @@ Portfolio: [[ Portfolio Website](https://masudprobd.github.io/)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<br />
-
-
-<h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=mr+laboratory&oq=masud+pro&aqs=chrome.0.69i59l3j69i60l3j69i65l2.5848j0j1&sourceid=chrome&ie=UTF-8">Masud Pro</a></h1>
-<div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
-    
-</div>
-
-<h3 align="center">Doing what you like is freedom. Liking what you do is happiness!</h3>
-<h3 align="center">I try to do what people can't do!</h3>
 
 
 ## 🔗 Connect with me:
@@ -78,7 +68,6 @@ Portfolio: [[ Portfolio Website](https://masudprobd.github.io/)]
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-
 
 
 </div>
