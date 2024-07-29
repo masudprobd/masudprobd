@@ -2,7 +2,9 @@
 Hello! I'm Masud Rana, a passionate MERN stack developer with a strong focus on building scalable and efficient web applications. I specialize in utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack to create robust and user-friendly solutions.
  I thrive in collaborating with cross-functional teams to deliver high-quality software products. Always staying updated with the latest technologies and best practices, I am dedicated to continuously improving my skills and delivering exceptional results. Let's connect and discuss how I can contribute to your next project.
 
-
+👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
 Contact
 Email: [masudcomputer24@gmail.com]
