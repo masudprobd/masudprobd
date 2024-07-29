@@ -45,6 +45,20 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudprobd&show_icons=true)  
 <br />
 <br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+
+
+
 <h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=mr+laboratory&oq=masud+pro&aqs=chrome.0.69i59l3j69i60l3j69i65l2.5848j0j1&sourceid=chrome&ie=UTF-8">Masud Pro</a></h1>
 <div align="center" class="center" style="width:200px;height:200px;margin:0 auto;border-radius: 50%; overflow: hidden;align-items: center;">
     
