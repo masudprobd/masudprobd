@@ -112,22 +112,4 @@ Profile views&color=blue&style=plastic" alt="masudprobd" /> </p></center>
 
 
 
-
-<div align="center">
-    
- - Masud Rana CV [See Now](https://masudprobd.github.io/) 
-
-
-    # My Projects
-
-Welcome to my collection of projects! Below you will find a list of my top projects along with links to explore them. Feel free to check them out and see what I've been working on.
-
-Feel free to explore any of these projects to learn more about them. Enjoy!
-
-
-    
-    
-
-
-
 </div>
