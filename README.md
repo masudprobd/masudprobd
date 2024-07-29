@@ -17,7 +17,6 @@ Email: [masudcomputer24@gmail.com]
 Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 
 
-
 ## 👨‍💻 Skills & Experiance: 
 ✅ WordPress <br> 
 ✅ JavaScript <br>
@@ -25,60 +24,10 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
-
-<style>
-* {
-  box-sizing: border-box;
-}
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
-
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
-
-## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
-
-
-
-
-#### Top Repositories
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudprobd&show_icons=true)
-<br />
-<br />
-
 
 
 <h1 align="center">Founder & CEO of <a target="_blank" href="https://www.google.com/search?q=mr+laboratory&oq=masud+pro&aqs=chrome.0.69i59l3j69i60l3j69i65l2.5848j0j1&sourceid=chrome&ie=UTF-8">Masud Pro</a></h1>
