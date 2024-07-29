@@ -68,7 +68,7 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <br/>
 
 [![GitHub iampawan](https://img.shields.io/github/followers/masudprobd.com?label=follow&style=social)](https://github.com/masudprobd)
-[![website](https://img.shields.io/badge/Portfolioe-masudprobd-2648ff?style=flat-square&logo=google-chrome)(https://masudprobd.github.io/)
+[![website](https://img.shields.io/badge/Portfolioe-masudprobd-2648ff?style=flat-square&logo=google-chrome)](https://github.com/masudprobd)
 
 
 **Languages and Tools:**  
