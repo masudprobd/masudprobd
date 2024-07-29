@@ -42,11 +42,11 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/masudprobd/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudprobd&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/masudprobd/masudprobd.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudprobd&repo=masudprobd.github.io&theme=buefy" />
 </a>
 
 <br />
