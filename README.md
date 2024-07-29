@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi 👋 I'm <a target="_blank" href="#">Masud Rana</a></h1>
 
-## 🚀 About Me
+## 🚀 About Me:
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 👑 I am Web Developer & Graphic Design Expert <br> 
@@ -12,9 +12,9 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=masudprobd alt=masudprobd/> </p>
 
-Contact
-Email: [masudcomputer24@gmail.com]
-Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
+## Contact:
+Email: [masudcomputer24@gmail.com]<br>
+Portfolio: [[ Portfolio Website](https://masudprobd.github.io/)]
 
 
 ## 👨‍💻 Skills & Experiance: 
