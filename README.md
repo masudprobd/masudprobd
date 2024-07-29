@@ -27,6 +27,9 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 
 
 
+
+
+
 ## Project 🧡💛💙💜
 
 
@@ -35,6 +38,13 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 - **Calculator** - A simple calculator web app. [See Now](#)
 - **Embad Site** - A website for embedding external content. [See Now](#)
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masudprobd)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudprobd&show_icons=true)  
 
 
 
