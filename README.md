@@ -4,8 +4,7 @@
 <h1 align="center"> Hi there 👋 👋 I'm <a target="_blank" href="#">Masud Rana</a></h1>
 
 ## 🚀 About Me
-Hello! I'm Masud Rana, a passionate MERN stack developer with a strong focus on building scalable and efficient web applications. I specialize in utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack to create robust and user-friendly solutions.
- I thrive in collaborating with cross-functional teams to deliver high-quality software products. Always staying updated with the latest technologies and best practices, I am dedicated to continuously improving my skills and delivering exceptional results. Let's connect and discuss how I can contribute to your next project.
+Hello! I'm Masud Rana, Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
 
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
