@@ -39,6 +39,18 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 - **Embad Site** - A website for embedding external content. [See Now](#)
 
 
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/masudprobd/github-readme-stats)
