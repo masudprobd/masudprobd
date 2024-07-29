@@ -1,4 +1,3 @@
-## Hi, I'm Ali Hossain 👋
 [<img src='https://github.com/masudprobd/masudprobd/blob/main/img/cover.jpg?raw=true' alt='Masud Rana'>](https://github.com/masudprobd/)
 <p>
 
