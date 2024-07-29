@@ -67,9 +67,6 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 <br/>
 <br/>
 
-
-
-[![Linkedin: mrlaboratory](https://img.shields.io/badge/-masudprobd.com-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masudprobd/)](#)
 [![GitHub iampawan](https://img.shields.io/github/followers/masudprobd.com?label=follow&style=social)](https://github.com/masudprobd)
 [![website](https://img.shields.io/badge/PortfolioWebsite-masudprobd.com-2648ff?style=flat-square&logo=google-chrome)](#)
 
