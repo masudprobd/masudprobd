@@ -1,3 +1,7 @@
+## Hi, I'm Ali Hossain 👋
+[<img src='https://github.com/masudprobd/masudprobd/blob/main/img/cover.jpg?raw=true' alt='Masud Rana'>](https://github.com/masudprobd/)
+<p>
+
 <h1 align="center"> Hi there 👋 👋 I'm <a target="_blank" href="#">Masud Rana</a></h1>
 Hello! I'm Masud Rana, a passionate MERN stack developer with a strong focus on building scalable and efficient web applications. I specialize in utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack to create robust and user-friendly solutions.
  I thrive in collaborating with cross-functional teams to deliver high-quality software products. Always staying updated with the latest technologies and best practices, I am dedicated to continuously improving my skills and delivering exceptional results. Let's connect and discuss how I can contribute to your next project.
