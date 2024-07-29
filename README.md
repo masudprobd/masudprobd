@@ -41,7 +41,7 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/masudprobd/github-readme-stats)
 
 
 
