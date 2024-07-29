@@ -26,6 +26,18 @@ Portfolio: [[ Portfolio Website](https://github.com/masudprobd)]
 ✅ Photoshop / Illustrator <br>
 
 
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudprobd)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+
+
+
 
 #### Top Repositories
 
